@@ -1,0 +1,2 @@
+module manish.java.project {
+}
